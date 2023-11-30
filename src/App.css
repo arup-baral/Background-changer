@@ -1,0 +1,13 @@
+.container {
+    width: fit-content;
+    height: 50px;
+    background-color: #c7c2c2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    box-shadow: 3px 6px 20px black;
+    position: absolute;
+    bottom: 100px;
+    padding: 0px 20px;
+}
